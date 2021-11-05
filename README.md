@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 </a>
 
 -->
-
 <p align="center">
-   ### Hi there my name is Marco, welcome to my github profile👋
+  ### Hi there my name is Marco, welcome to my github profile👋
+</p>
+<p align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=Macezu&theme=radical&show_icons=true">
 </p>
