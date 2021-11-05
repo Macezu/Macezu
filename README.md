@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Macezu&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+<p align="center">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=Macezu&theme=radical&show_icons=true">
+</p>
