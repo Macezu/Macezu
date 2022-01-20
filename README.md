@@ -28,5 +28,5 @@ Here are some ideas to get you started:
   Hi there my name is Marco, welcome to my github profile👋
 </H1>
 <p align="center">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=Macezu&theme=radical&show_icons=true">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=Macezu&theme=radical&show_icons=true&count_private=true">
 </p>
